@@ -1,4 +1,4 @@
-module github.com/jnohlgard/caddy-mirror
+module github.com/caddy-mirror/mirror
 
 go 1.22.3
 
